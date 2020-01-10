@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-github/static/css/main.d1b05096.chunk.css",
+    "main.js": "/first-github/static/js/main.7722963d.chunk.js",
+    "main.js.map": "/first-github/static/js/main.7722963d.chunk.js.map",
+    "runtime-main.js": "/first-github/static/js/runtime-main.f6748803.js",
+    "runtime-main.js.map": "/first-github/static/js/runtime-main.f6748803.js.map",
+    "static/js/2.b4d14c4a.chunk.js": "/first-github/static/js/2.b4d14c4a.chunk.js",
+    "static/js/2.b4d14c4a.chunk.js.map": "/first-github/static/js/2.b4d14c4a.chunk.js.map",
+    "index.html": "/first-github/index.html",
+    "precache-manifest.3589de8f60b9cc0930acb677fb00a502.js": "/first-github/precache-manifest.3589de8f60b9cc0930acb677fb00a502.js",
+    "service-worker.js": "/first-github/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/first-github/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b4d14c4a.chunk.js.LICENSE": "/first-github/static/js/2.b4d14c4a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6748803.js",
+    "static/js/2.b4d14c4a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7722963d.chunk.js"
+  ]
+}
